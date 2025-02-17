@@ -1,5 +1,6 @@
 
-![Tic-Tac-Toe Screenshot](tic-tac-toe.png)  
+![Tic-Tac-Toe Screenshot][tic-tac-toe](https://github.com/user-attachments/assets/7f2cc558-c515-49a7-b133-89a822539bd0)
+
 (Replace with an actual screenshot of your game if available)
 
 A classic Tic-Tac-Toe game with a modern neon-themed design. Built using HTML, CSS, and JavaScript, this project is a great example of basic game development and DOM manipulation.
